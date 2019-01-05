@@ -1,2 +1,0 @@
-Today I begin to da my graduate project.
-I would like to form a good habit of using git to help me finish this project.
